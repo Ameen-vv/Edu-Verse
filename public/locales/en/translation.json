@@ -1,0 +1,90 @@
+{
+  "navBar": {
+    "home": "Home",
+    "about": "About",
+    "faq":"FAQ"
+  },
+  "title": "Edu-Verse",
+  "heroSection": {
+    "heroTitle": "Discover the Path to Knowledge",
+    "heroDesc": "Uncover the secrets of learning and ignite your passion for education. At Edu-Verse, we strive to eliminate every obstacle on your educational journey, ensuring that you find the joy in understanding and the thrill of discovery.",
+    "button1":"About Us",
+    "button2":"Learn More"    
+    },
+    "featureSection":{
+        "title":"Why choose us",
+        "rsn1":{
+            "title":"Expert Faculty",
+            "desc":"Our institution boasts a team of experienced and dedicated educators who are passionate about teaching. They bring a wealth of knowledge and expertise to the classroom, ensuring that you receive top-notch instruction and guidance."
+        },
+        "rsn2":{
+            "title":"Diverse Course Offerings",
+            "desc":"We offer a wide range of courses catering to various fields and interests. Whether you're looking to enhance your professional skills, explore new hobbies, or pursue a degree, we have the programs to suit your needs."
+        },
+        "rsn3":{
+            "title":"Interactive Learning",
+            "desc":"Our innovative teaching methods and state-of-the-art technology create an engaging and interactive learning environment. You'll have access to resources, online forums, and collaborative projects that make learning both enjoyable and effective."
+        },
+        "rsn4":{
+            "title":"Proven Success",
+            "desc":"Many of our graduates have gone on to achieve remarkable success in their careers. We take pride in their accomplishments and are committed to helping you reach your full potential as well. Our track record of producing accomplished alumni speaks volumes about the quality of education you can expect from us."
+        }
+    },
+    "footer":{
+        "title":"Edu-Verse",
+        "quote":"Education is the passport to the future, for tomorrow belongs to those who prepare for it today. It is the foundation upon which we build our dreams, the bridge that connects our ambitions to reality, and the light that guides us through the darkest of times.",
+        "phone":"Phone",
+        "email":"Email",
+        "address":{
+            "title":"Address",
+            "Value":"312 Lovely Street, NY"
+        },
+        "social":"Social",
+        "connect":"Connect with us...",
+        "copyright":"© Copyright 2023 EduVerse Inc. All rights reserved."
+    },
+    "aboutUs":{
+        "title":"Welcome to Eduverse",
+        "subTitle":"Unlocking a World of Knowledge and Opportunities",
+        "mission":{
+            "title":"Our Mission",
+            "desc":"Eduverse is dedicated to transforming education and empowering learners worldwide. We believe that education is the key to personal growth and success."
+        },
+        "whatSetUsApart":{
+            "title":"What Sets Us Apart",
+            "desc":"At Eduverse, we are committed to providing high-quality, accessible, and engaging educational content. Our platform isdesigned to inspire curiosity, foster creativity, and facilitatelifelong learning."
+        },
+        "joinUs":{
+            "title":"Join Us on this Journey",
+            "desc":"Join the Eduverse community and embark on a journey of discovery. Whether you're a student, educator, or lifelong learner, we invite you to explore our platform and unlock the potential of learning."
+        }
+    },
+    "faq":{
+        "title":"FAQ",
+        "subTitle":"Frequently asked questions",
+        "qstn1":{
+            "qstn":"What is Eduverse, and what does it offer?",
+            "ans":"Eduverse is an online educational platform that offers a wide range of courses and learning resources. We provide courses on various subjects, including science, technology, arts, and more, to help learners of all levels achieve their educational goals."
+        },
+        "qstn2":{
+            "qstn":"Is Eduverse suitable for both students and professionals?",
+            "ans":"Yes, Eduverse caters to a diverse audience. Our courses are designed for students, professionals, and lifelong learners. Whether you're seeking academic support, career advancement, or personal enrichment, you'll find valuable resources on our platform."
+        },
+        "qstn3":{
+            "qstn":"How do I enroll in a course on Eduverse?",
+            "ans":" To enroll in a course, simply browse our course catalog, select the course you're interested in, and click the 'Enroll' or 'Start Learning' button. Follow the prompts to create an account or log in if you're an existing user."
+        },
+        "qstn4":{
+            "qstn":"What types of courses are available on Eduverse?",
+            "ans":"Eduverse offers a diverse range of courses, including video lectures, interactive quizzes, assignments, and hands-on projects. We have courses in subjects such as programming, mathematics, language learning, business, and more."
+        },
+        "qstn5":{
+            "qstn":"Can I access Eduverse on mobile devices?",
+            "ans":"Yes, Eduverse is accessible on a variety of devices, including smartphones and tablets. We have a responsive website and a mobile app for convenient learning on the go."
+        },
+        "qstn6":{
+            "qstn":"Do I receive a certificate upon course completion?",
+            "ans":"Yes, upon successfully completing a course, you will receive a certificate of completion. Certificates can be shared on your professional profiles and resumes."
+        }
+    }
+}
