@@ -4,7 +4,7 @@ const FaqItems:React.FC<{header:string,text:string}> = ({ header, text }) => {
     const [active, setActive] = useState<boolean>(false);
 
     const handleToggle = ():void => {
-      event.preventDefault();
+      event?.preventDefault();
       setActive(!active);
     };
     return (
